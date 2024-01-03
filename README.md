@@ -4,7 +4,7 @@
 Individuals close to me suffered and some lost their life due to heart disease which makes me dig more why and how many people are dying due to heart diseases & the reasons behind.
 
 ## 
-people from all ages can view the data (last 2 decades) and increase their awareness of the heart health issues. Some causes like excess sugar and Alcohol can cause heart health issues. 
+People from all ages can view the data (last 2 decades) and increase their awareness of the heart health issues. Some cause like excess sugar cause heart health issues. 
 
 ## Technologies Used
 1. Python / Pandas - for exploration, aggregation  of the dataset
